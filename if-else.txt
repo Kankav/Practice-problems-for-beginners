@@ -1,0 +1,52 @@
+1.Write a program which takes an integer input from user and print a string as per following rule:
+
+For multiple of 3, print "Fizz". 
+For multiple of 5, print "Buzz".
+For numbers which are multiples of both 3 and 5, print "FizzBuzz".
+
+2.Write a C/C++ program to find maximum between three numbers.
+
+3.Write a program to input any alphabet and check whether it is vowel or consonant.
+
+4.Write a C program to input angles of a triangle and check whether the triangle is valid or not.
+
+5.Write a C program to input all sides of a triangle and check whether the triangle is valid or not.
+
+6.Write a C program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D
+Percentage >= 40% : Grade E
+Percentage < 40% : Grade F
+
+7.Write a C program to input electricity unit charges and calculate total electricity bill according to the given condition:
+For first 50 units Rs. 0.50/unit
+For next 100 units Rs. 0.75/unit
+For next 100 units Rs. 1.20/unit
+For unit above 250 Rs. 1.50/unit
+
+8.Write a program which takes 2 integers as input and tells if they are equal or not.  Also, in not equal case, it also prints the number which is greater.
+
+9.Write a C program that takes month number as an input and displays the number of days in the month. If input is greater than 12 or less than 1 then program should display an error message.
+
+10.Write a program which takes three sides of a triangle as input and calculates its perimeter only if it is a valid triangle.
+
+11.Take values of length and breadth of a rectangle from user and check if it is square or not.
+
+12.A shop will give discount of 10% if the cost of purchased quantity is more than 1000.
+Ask user for quantity
+Suppose, one unit will cost 100.
+calculate and print total cost for user.
+
+13.If integer variable currentNumber is odd, change its value so that it is now 3 times currentNumber plus 1, otherwise change its value so that it is now half of currentNumber  
+
+14.A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+Take following input from user :
+Number of classes held
+Number of classes attended.
+And print :
+percentage of class attended
+Is student is allowed to sit in exam or not.
+
+15. Modify the above question to allow student to sit if he/she has medical cause. Ask user if he/she has medical cause or not ( 'Y' or 'N' ) and print accordingly.
